@@ -1,0 +1,17 @@
+1;Básica;Literatura;Gabriel García Márquez;Cien años de soledad;1967
+2;Media;Ciencia Ficción;Isaac Asimov;Fundación;1951
+3;Media;Filosofía;Friedrich Nietzsche;Así habló Zaratustra;1883
+4;Básica;Infantil;Antoine de Saint-Exupéry;El Principito;1943
+5;Media;Ciencia;Stephen Hawking;Breve historia del tiempo;1988
+6;Básica;Aventura;Jules Verne;Viaje al centro de la Tierra;1864
+7;Media;Historia;Yuval Noah Harari;Sapiens: De animales a dioses;2011
+8;Básica;Fantástico;J.K. Rowling;Harry Potter y la piedra filosofal;1997
+9;Media;Terror;Stephen King;It;1986
+10;Básica;Fábulas;Esopo;Fábulas de Esopo;-600
+1 | BASICA | fantasia | null | risa | 2000
+1 | BASICA | fantasia | null | buen dia | 2000
+1 | BASICA | fantasia | null | brisa | 2000
+17 | MEDIA | horror | null | sol | 1997
+3 | BASICA | misterio | null | la mancha | 1994
+20 | BASICA | fantasia | ramon | vientos del este | 2003
+2 | BASICA | fantasia | raul | el dia | 2000
